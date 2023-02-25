@@ -9,6 +9,7 @@ import Footer from "../Footer/Footer";
 export default function Home() {
   return (
     <div>
+      {/*  */}
       
       <div className="main_div">
         <header className="flex ">
