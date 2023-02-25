@@ -16,10 +16,23 @@ MongoDB<br>
 
 
 
-<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/master/Image/Image1.png" height="400" width="1000">
-<img src="https://github.com/amansoni221010/Flipkart-Website-Clone/blob/master/Image/Image2.png" height="400" width="1000">
-<img src="https://github.com/amansoni221010/Flipkart-Website-Clone/blob/master/Image/Image3.png" height="400" width="1000">
-<img src="https://github.com/amansoni221010/Flipkart-Website-Clone/blob/master/Image/Image5Login.png" height="400" width="1000">
-<img src="https://github.com/amansoni221010/Flipkart-Website-Clone/blob/master/Image/Image6signup.png" height="400" width="1000">
-<img src="https://github.com/amansoni221010/Flipkart-Website-Clone/blob/master/Image/Image7footer.png" height="400" width="1000">
-<img src="https://github.com/amansoni221010/Flipkart-Website-Clone/blob/master/Image/MongoDb.png" height="400" width="1000">
+<h3>Front Page</h3><br>
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix1.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix2.png" height="400" width="1000">
+<h3>World Map</h3><br>
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix4.png" height="400" width="1000">
+<h3>Vision & About Page</h3><br>
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix5.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix6.png" height="400" width="1000">
+<h3>AI Page</h3><br>
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix7.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix8.png" height="400" width="1000">
+<h3>Crypto Page</h3><br>
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix9.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix11.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix12.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix13.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix14.png" height="400" width="1000">
+<h3>Web Page</h3><br>
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix15.png" height="400" width="1000">
+<img src="https://github.com/amansoni221010/Phoenix-Labs/blob/main/Git%20Image/phoenix16.png" height="400" width="1000">
