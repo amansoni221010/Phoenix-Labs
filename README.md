@@ -1,6 +1,6 @@
 # Phoenix labs website
 
-**Phoenix Labs website clone using react and javascript in which user can do the following:**<br>
+**Phoenix Labs website using react and javascript in which user can do the following:**<br>
 View the world image with the name by the right side small button<br>
 View the vision of the website<br>
 The division section include:<br>
