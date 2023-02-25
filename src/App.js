@@ -1,24 +1,33 @@
 import logo from './logo.svg';
+
 import './App.css';
+import Home from './Phoenix/Home';
+import Map from './Phoenix/Map';
+import Vision from './Phoenix/Vision';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Artificial from './DivisionTab/Artificial';
+import Objectdetection from './DivisionTab/Objectdetection';
+import Webdevelopement from './DivisionTab/Webdevelopement';
+import Crypto from './DivisionTab/Crypto';
+import Allbitcoin from './DivisionTab/Allbitcoin';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+        <Routes>
+     <Route path='/' element= {<Home/>}/>
+      <Route path='/map' element= {<Map/>}/>
+     <Route path='/vision' element={<Vision/>}/>
+     <Route path='/artificialintellicenter' element={<Artificial/>}/>
+     <Route path='/webdevelopementcenter' element={<Webdevelopement/>}/>
+     <Route path='/cryptointellicenter' element={<Crypto/>}/>
+     <Route path='/artificialintellicenter/page2' element={<Objectdetection/>}/>
+     <Route path='/cryptointellicenter/all-coins' element={<Allbitcoin/>}/>
+     </Routes>
+      </BrowserRouter>
+    
   );
 }
 

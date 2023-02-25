@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.toobject{
+    height: 100vh;
+    background-image: linear-gradient(
+    0deg,    
+    rgba(0,0,0,0.8) 0,
+    transparent 60%,
+    rgba(0,0,0,0.8)) ;
+    /* url('../../src/Images/1087790.webp'); */
+    /* background-position: center; */
+    
+    /* background-size: cover; */
+   
+}

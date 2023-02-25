@@ -1,0 +1,31 @@
+@media screen and (max-width: 1352px) {
+    .newsroom .desktop-container{
+        display: none !important;
+    }
+    
+    .newsroom .context{
+        margin-top: 11rem;
+
+    }
+  }
+  @media screen and (max-width: 1080px) {
+    .row{
+display: inline;
+    }
+    
+    /* margin-top: 4rem; */
+    footer{
+        padding: 0px 110px;
+        position: inherit;
+
+    }
+    .row .newsroom{
+        padding: 0;
+
+    }
+    .newsroom .context{
+        margin-top: 4rem;
+
+    }
+
+  }

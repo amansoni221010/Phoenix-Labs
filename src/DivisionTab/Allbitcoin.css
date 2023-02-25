@@ -1,0 +1,132 @@
+.over-all{
+    width: 100%;
+    /* background-image: url('../Images/backgroundcrypto.png'); */
+    background-image: url("https://toka.b-cdn.net/wp-content/uploads/2022/03/bgf-224.png");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    padding: 0 7%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.over-all .container{
+    padding: 120px;
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+    min-height: 100vh;
+    margin: 50px;
+    min-height: min-content;
+
+}
+.over-all .container .search-box{
+    padding: 18px ;
+    border: 2px solid white;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.over-all .container .search-box input{
+    background: transparent;
+  color: #ccc;
+  border: 0;
+  outline: none;
+  width: 70%;
+  height: 40px;
+
+}
+.over-all .container .result-box{
+ width: 100%;
+    
+}
+.over-all .container .result-box .result{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 18px;
+    padding: 14px ;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.over-all .container .result-box .result h4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+}
+.over-all .container .result-box .result p{
+    
+    display: flex;
+    justify-content: end;
+    align-items: center;;
+}
+.over-all .container .result-box .result img{
+ width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 100% 100% 100% 100%;
+}
+/* form{
+  padding-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 50px;
+}
+form .material-symbols-outlined{
+  font-size: 18px;
+  margin-right: 10px;
+  color: #ccc;
+
+}
+form input{
+  
+  background: transparent;
+  color: #ccc;
+  border: 0;
+  outline: none;
+}
+form button{
+  background: transparent;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+}
+form button .material-symbols-outlined{
+  font-size: 16px;
+  color: #ccc;
+}
+.social-icons .fa-brands{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+  color: #000;
+  background: #fff;
+  margin-right: 15px ;
+  cursor: pointer;
+
+}
+.social-icons{
+  padding-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+  margin-bottom: 50px;
+}
+.newsroom .desktop-container{
+  border-left: 0.1rem solid #fff;
+  height: 13rem;
+ 
+  margin-left: -0.3rem;
+  margin-top: 4%;
+  width: 2px;
+  opacity: .3;
+}
+*/
+ 

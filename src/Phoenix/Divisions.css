@@ -1,0 +1,13 @@
+.division__in{
+display: flex;
+align-items: center;
+padding: 15px 25px;
+}
+.division__in:hover{
+    background-color: rgb(245,243,243);
+    cursor: pointer;
+
+}
+.division__in>span{
+    font-weight: 600;
+}

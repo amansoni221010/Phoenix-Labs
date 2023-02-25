@@ -1,0 +1,17 @@
+
+button{
+    text-decoration: none;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0;
+
+}

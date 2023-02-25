@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.react-banner{
+    background-image: url(https://www.digiteum.com/wp-content/uploads/2019/06/shutterstock_477005419.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.react-banner .m-i{
+    max-width: 1160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0  auto;
+
+}
+.react-banner .m-i .hero-banner__title{
+    padding-top: 156px;
+    margin-top: 50px;
+}
+.react-banner .m-i .hero-banner__title h1{
+    margin: 0;
+    font-size: 60px;
+    color: #000;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.3;
+    font-weight: normal;
+}
+
+.react-banner .m-i .hero-banner__text{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    /* font-size: 24px; */
+    color: #000;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.react-banner .m-i .hero-banner__button{
+    width: 100%;
+    margin-top: 54px;
+    display: flex;
+    justify-content: center;
+}
+
+.react-banner .m-i .hero-banner__button .webcontactbut .btn .btn-danger{
+    max-width: 234px;
+    height: 52px;
+    line-height: 52px;
+    margin: 0 auto;
+    font-weight: 700;
+    border: none;
+    background: #dd170f;
+    color: #fff;
+    transition: .3s all;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;    
+}
+.section{
+    padding: 80px 0;
+}
+.section .m-i{
+    max-width: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0  auto;
+
+}
+.section .section__title{
+    margin-bottom: 50px;
+    text-align: center;
+    position: relative;
+
+}
+.section .section__title h2{
+    font-size: 32px;
+    font-weight: 500;
+    color: #000;
+    text-transform: uppercase;
+    line-height: 1.5;
+
+}
+.section .section__title h2::after{
+    content: '';
+    display: block;
+    max-width: 114px;
+    height: 4px;
+    margin: 13px auto 0 auto;
+    background-color: #db1c1e;
+
+}.section .text-box p{
+    font-size: 18px;
+}
+.section .m-i .active{
+    max-height: none;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    transition: opacity 1s;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    flex: 1 1;
+    justify-content: space-between;
+    align-content: space-between;
+    max-width: 1120px;
+    overflow: hidden;
+    background-color: rgba(0,0,0,.03);
+    box-shadow: 0 3px 15px rgb(0 0 0 / 3%);
+
+}
+
+.section .m-i .active .tabcontent-item{
+    padding: 30px 20px 0 0;
+    display: flex;
+    position: relative;
+    flex: 0 1 33.3333%;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 372px;
+    min-width: 300px;
+    min-height: 190px;
+    background-color: #fff;
+    overflow: hidden;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+
+}
+.section .m-i .active .tabcontent-item .offer-image {
+    position: relative;
+    flex: 0 1 25%;
+    transition: all .3s ease;
+    padding-left: 10px;
+}
+.section .m-i .active .tabcontent-item .offer-content{
+flex: 0 1 70%;
+    max-width: 260px;
+    padding-left: 3px;
+}
+.section .m-i .active .tabcontent-item .offer-content h3{
+    max-width: 260px;
+    margin-bottom: 13px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
+    text-align: left;
+    color: #323232;
+    text-transform: capitalize;
+    transition: all .3s ease;
+}
+.section .m-i .active .tabcontent-item .offer-content p{
+
+margin: 0 0 12px;
+    font-size: 13.5px;
+    line-height: 1.43;
+    text-align: left;
+    color: rgba(50,50,50,.8);
+    transition: all .3s ease;
+}
